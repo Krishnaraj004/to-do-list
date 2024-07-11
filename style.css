@@ -1,0 +1,49 @@
+.container{
+    border: 1px solid green;
+    background-color: green;
+    width:600px;
+    height: 600px;
+   margin: 0 auto;
+}
+.full{
+    border: 1px solid white;
+    background-color: white;
+    width: 500px;
+    height: 500px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.blue{
+    background-color: blue;
+    color: white;
+    border: 10px solid blue;
+    border-radius: 5px;
+    
+}
+
+.bluee{
+    background-color: blue;
+    border: 1px solid blue;
+    color: white;
+    border-radius: 10px;
+    padding: 6px;
+    font-size: 16px;
+}
+.red{
+    background-color: red;
+    border: 1px solid red;
+    color: white;
+    border-radius: 10px;
+    padding: 6px;
+    font-size: 16px;
+}
+.green{
+    background-color: green;
+    border: 1px solid green;
+    border-radius: 10px;
+    padding: 6px;
+    font-size: 16px;
+    color: white;
+}
